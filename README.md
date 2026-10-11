@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Muralimjanov banner" width="100%"/>
-
-<a href="https://github.com/Muralimjanov">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Привет!+Я+Mr.+Muralimjanov+👋;Full-Stack+разработчик;Делаю+CRM,+маркетплейсы+и+API;Пишу+на+TypeScript,+Node.js,+React,+Python" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Muralimjanov&label=Просмотры+профиля&color=7c3aed&style=for-the-badge" alt="views"/>
+<img src="./assets/banner.svg" alt="Muralimjanov — Full-Stack Developer" width="100%"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 👨‍💻 Обо мне
+## <img src="./assets/icons/user.svg" width="26" height="26" align="center" alt=""/> Обо мне
 
-- 🚀 Разрабатываю полноценные веб-приложения: от интерфейса до базы данных
-- 🏢 Недавно: **CRM-системы** (`zhibek-zholu-crm`, `ad-academy-crm`), **market-hub**, **redmi-service-suite**
-- 🔌 Интеграции: Yandex Pay, VK Mini Apps, WebSocket, внешние API
-- 🎨 Люблю анимации и аккуратный UI (`Animation-cube`, `gallery-animation`)
+- <img src="./assets/icons/zap.svg" width="18" height="18" align="center" alt=""/> Разрабатываю полноценные веб-приложения: от интерфейса до базы данных
+- <img src="./assets/icons/briefcase.svg" width="18" height="18" align="center" alt=""/> Недавно: **CRM-системы** (`zhibek-zholu-crm`, `ad-academy-crm`), **market-hub**, **redmi-service-suite**
+- <img src="./assets/icons/link.svg" width="18" height="18" align="center" alt=""/> Интеграции: Yandex Pay, VK Mini Apps, WebSocket, внешние API
+- <img src="./assets/icons/droplet.svg" width="18" height="18" align="center" alt=""/> Люблю анимации и аккуратный UI (`Animation-cube`, `gallery-animation`)
 
-## 🛠 Стек
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/tools.svg" width="26" height="26" align="center" alt=""/> Стек
 
 <div align="center">
 
@@ -31,7 +27,9 @@
 
 </div>
 
-## 📌 Избранные проекты
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/layers.svg" width="26" height="26" align="center" alt=""/> Избранные проекты
 
 <div align="center">
 
@@ -46,7 +44,9 @@
 
 </div>
 
-## 📊 Статистика
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/chart.svg" width="26" height="26" align="center" alt=""/> Статистика
 
 <div align="center">
 
@@ -57,19 +57,23 @@
 
 </div>
 
-## 🐍 Contribution snake
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/grid.svg" width="26" height="26" align="center" alt=""/> Contribution snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muralimjanov/Muralimjanov/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
-## 📫 Связаться
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## <img src="./assets/icons/mail.svg" width="26" height="26" align="center" alt=""/> Связаться
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muralimjanov-181717?style=for-the-badge&logo=github)](https://github.com/Muralimjanov)
 [![Email](https://img.shields.io/badge/Email-diyor.muralimjanovvv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyor.muralimjanovvv@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt=""/>
 
 </div>
