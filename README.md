@@ -55,8 +55,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Muralimjanov&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muralimjanov&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity"/>
-
 </div>
 
 ## 🐍 Contribution snake
