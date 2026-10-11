@@ -50,10 +50,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muralimjanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muralimjanov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muralimjanov&show_icons=true&hide_border=true&bg_color=14100d&title_color=fb923c&icon_color=f43f5e&text_color=d6d3d1" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muralimjanov&layout=compact&hide_border=true&bg_color=14100d&title_color=fb923c&icon_color=f43f5e&text_color=d6d3d1" alt="langs"/>
 
-<img src="https://streak-stats.demolab.com?user=Muralimjanov&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Muralimjanov&hide_border=true&background=14100d&ring=f97316&fire=f43f5e&currStreakNum=fdba74&sideNums=fdba74&currStreakLabel=fb923c&sideLabels=d6d3d1&dates=a8a29e" alt="streak"/>
 
 </div>
 
@@ -74,6 +74,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Muralimjanov-181717?style=for-the-badge&logo=github)](https://github.com/Muralimjanov)
 [![Email](https://img.shields.io/badge/Email-diyor.muralimjanovvv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyor.muralimjanovvv@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:e11d48&height=100&section=footer" width="100%" alt=""/>
 
 </div>

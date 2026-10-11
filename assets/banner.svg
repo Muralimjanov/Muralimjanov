@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
 <defs>
-<radialGradient id="b1"><stop offset="0" stop-color="#4f46e5" stop-opacity=".55"/><stop offset="1" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
-<radialGradient id="b2"><stop offset="0" stop-color="#0d9488" stop-opacity=".5"/><stop offset="1" stop-color="#0d9488" stop-opacity="0"/></radialGradient>
-<radialGradient id="b3"><stop offset="0" stop-color="#9333ea" stop-opacity=".45"/><stop offset="1" stop-color="#9333ea" stop-opacity="0"/></radialGradient>
-<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#c7d2fe"/><stop offset="1" stop-color="#99f6e4"/></linearGradient>
-<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+<radialGradient id="b1"><stop offset="0" stop-color="#ea580c" stop-opacity=".55"/><stop offset="1" stop-color="#ea580c" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2"><stop offset="0" stop-color="#e11d48" stop-opacity=".5"/><stop offset="1" stop-color="#e11d48" stop-opacity="0"/></radialGradient>
+<radialGradient id="b3"><stop offset="0" stop-color="#f59e0b" stop-opacity=".45"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#fed7aa"/><stop offset="1" stop-color="#fdba74"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#f43f5e"/></linearGradient>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
 <clipPath id="round"><rect width="1000" height="320" rx="20"/></clipPath>
 </defs>
 <g clip-path="url(#round)">
-<rect width="1000" height="320" fill="#0d1117"/>
+<rect width="1000" height="320" fill="#14100d"/>
 <circle cx="170" cy="70" r="260" fill="url(#b1)"><animate attributeName="cx" values="170;300;170" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="70;130;70" dur="13s" repeatCount="indefinite"/></circle>
 <circle cx="830" cy="270" r="280" fill="url(#b2)"><animate attributeName="cx" values="830;700;830" dur="18s" repeatCount="indefinite"/><animate attributeName="cy" values="270;200;270" dur="14s" repeatCount="indefinite"/></circle>
 <circle cx="560" cy="20" r="200" fill="url(#b3)"><animate attributeName="cx" values="560;640;560" dur="15s" repeatCount="indefinite"/></circle>
@@ -17,7 +17,7 @@
 <circle cx="120" cy="50" r="1.6" fill="#fff" opacity=".28"><animate attributeName="cy" values="50;36;50" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="5s" repeatCount="indefinite"/></circle><circle cx="380" cy="36" r="1.2" fill="#fff" opacity=".28"><animate attributeName="cy" values="36;22;36" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="6s" repeatCount="indefinite"/></circle><circle cx="600" cy="296" r="1.6" fill="#fff" opacity=".28"><animate attributeName="cy" values="296;282;296" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="7s" repeatCount="indefinite"/></circle><circle cx="560" cy="110" r="1.2" fill="#fff" opacity=".28"><animate attributeName="cy" values="110;96;110" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="5.5s" repeatCount="indefinite"/></circle><circle cx="960" cy="40" r="1.6" fill="#fff" opacity=".28"><animate attributeName="cy" values="40;26;40" dur="6.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="6.5s" repeatCount="indefinite"/></circle><circle cx="930" cy="300" r="1.2" fill="#fff" opacity=".28"><animate attributeName="cy" values="300;286;300" dur="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="4.5s" repeatCount="indefinite"/></circle><circle cx="40" cy="200" r="1.4" fill="#fff" opacity=".28"><animate attributeName="cy" values="200;186;200" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".1;.4;.1" dur="6s" repeatCount="indefinite"/></circle>
 
 <rect x="64" y="70" width="0" height="2" rx="1" fill="url(#bar)"><animate attributeName="width" values="0;36" begin=".2s" dur=".6s" fill="freeze"/></rect>
-<text x="112" y="76" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#94a3b8" opacity="0">FULL-STACK DEVELOPER<animate attributeName="opacity" values="0;1" begin=".3s" dur=".8s" fill="freeze"/></text>
+<text x="112" y="76" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#a8a29e" opacity="0">FULL-STACK DEVELOPER<animate attributeName="opacity" values="0;1" begin=".3s" dur=".8s" fill="freeze"/></text>
 
 <text x="60" y="160" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="-1.5" fill="url(#name)" opacity="0">Muralimjanov
 <animate attributeName="opacity" values="0;1" begin=".5s" dur="1s" fill="freeze"/>
@@ -25,34 +25,34 @@
 
 <rect x="64" y="184" width="0" height="3" rx="1.5" fill="url(#bar)"><animate attributeName="width" values="0;150" begin="1.2s" dur=".9s" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1" fill="freeze"/></rect>
 
-<text x="64" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" fill="#cbd5e1" opacity="0">Building<animate attributeName="opacity" values="0;1" begin="1.4s" dur=".6s" fill="freeze"/></text>
-<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#5eead4" opacity="0">CRM systems<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="1.6s" repeatCount="indefinite"/></text>
-<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#5eead4" opacity="0">marketplaces<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="5.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="5.1s" repeatCount="indefinite"/></text>
-<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#5eead4" opacity="0">APIs &amp; integrations<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="8.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="8.6s" repeatCount="indefinite"/></text>
+<text x="64" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" fill="#d6d3d1" opacity="0">Building<animate attributeName="opacity" values="0;1" begin="1.4s" dur=".6s" fill="freeze"/></text>
+<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#fdba74" opacity="0">CRM systems<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="1.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="1.6s" repeatCount="indefinite"/></text>
+<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#fdba74" opacity="0">marketplaces<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="5.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="5.1s" repeatCount="indefinite"/></text>
+<text x="206" y="246" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="26" font-weight="700" fill="#fdba74" opacity="0">APIs &amp; integrations<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="8.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -8;0 -8" keyTimes="0;.06;.30;.36;1" dur="10.5s" begin="8.6s" repeatCount="indefinite"/></text>
 
 <g transform="translate(64 268)"><animateTransform attributeName="transform" type="translate" values="64 268;64 264;64 268" dur="3.2s" begin="0.0s" repeatCount="indefinite"/>
 <rect width="96" height="28" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="14" cy="14" r="4" fill="#3b82f6"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">TypeScript</text></g>
+<circle cx="14" cy="14" r="4" fill="#f59e0b"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#d6d3d1">TypeScript</text></g>
 <g transform="translate(170 268)"><animateTransform attributeName="transform" type="translate" values="170 268;170 264;170 268" dur="3.6s" begin="0.3s" repeatCount="indefinite"/>
 <rect width="74" height="28" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="14" cy="14" r="4" fill="#f43f5e"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">NestJS</text></g>
+<circle cx="14" cy="14" r="4" fill="#f43f5e"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#d6d3d1">NestJS</text></g>
 <g transform="translate(254 268)"><animateTransform attributeName="transform" type="translate" values="254 268;254 264;254 268" dur="4.0s" begin="0.6s" repeatCount="indefinite"/>
 <rect width="66" height="28" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="14" cy="14" r="4" fill="#22d3ee"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">React</text></g>
+<circle cx="14" cy="14" r="4" fill="#fb923c"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#d6d3d1">React</text></g>
 <g transform="translate(330 268)"><animateTransform attributeName="transform" type="translate" values="330 268;330 264;330 268" dur="4.4s" begin="0.8999999999999999s" repeatCount="indefinite"/>
 <rect width="80" height="28" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="14" cy="14" r="4" fill="#4ade80"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">Node.js</text></g>
+<circle cx="14" cy="14" r="4" fill="#facc15"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#d6d3d1">Node.js</text></g>
 <g transform="translate(420 268)"><animateTransform attributeName="transform" type="translate" values="420 268;420 264;420 268" dur="4.800000000000001s" begin="1.2s" repeatCount="indefinite"/>
 <rect width="106" height="28" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#ffffff" stroke-opacity=".14"/>
-<circle cx="14" cy="14" r="4" fill="#818cf8"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#cbd5e1">PostgreSQL</text></g>
+<circle cx="14" cy="14" r="4" fill="#f472b6"/><text x="26" y="19" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#d6d3d1">PostgreSQL</text></g>
 
 
 <g transform="translate(650 50)">
 <animateTransform attributeName="transform" type="translate" values="650 52;650 40;650 52" dur="7s" repeatCount="indefinite"/>
-<rect width="300" height="188" rx="14" fill="#0d1117" fill-opacity=".82" stroke="#ffffff" stroke-opacity=".13"/>
+<rect width="300" height="188" rx="14" fill="#14100d" fill-opacity=".82" stroke="#ffffff" stroke-opacity=".13"/>
 <rect width="300" height="30" rx="14" fill="#ffffff" fill-opacity=".04"/>
 <circle cx="18" cy="15" r="4.5" fill="#ff5f56"/><circle cx="34" cy="15" r="4.5" fill="#ffbd2e"/><circle cx="50" cy="15" r="4.5" fill="#27c93f"/>
-<text x="150" y="19" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11.5" fill="#64748b">developer.ts</text>
+<text x="150" y="19" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="11.5" fill="#a8a29e">developer.ts</text>
 <defs><clipPath id="c0"><rect x="0" y="30" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.0923;0.1615;0.8846;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c1"><rect x="0" y="54" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.1615;0.2308;0.8846;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c2"><rect x="0" y="78" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.2308;0.3000;0.8846;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
@@ -60,14 +60,14 @@
 <clipPath id="c4"><rect x="0" y="126" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.3692;0.4385;0.8846;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
 <clipPath id="c5"><rect x="0" y="150" width="0" height="20"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.4385;0.5077;0.8846;1" dur="13s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<text x="20" y="44" clip-path="url(#c0)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#c4b5fd">const&#160;</tspan><tspan fill="#e2e8f0">dev&#160;</tspan><tspan fill="#94a3b8">=&#160;{</tspan></text>
-<text x="20" y="68" clip-path="url(#c1)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#7dd3fc">&#160;&#160;name:&#160;</tspan><tspan fill="#86efac">"Muralimjanov"</tspan><tspan fill="#94a3b8">,</tspan></text>
-<text x="20" y="92" clip-path="url(#c2)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#7dd3fc">&#160;&#160;stack:&#160;</tspan><tspan fill="#86efac">["TS",&#160;"Nest",&#160;"React"]</tspan><tspan fill="#94a3b8">,</tspan></text>
-<text x="20" y="116" clip-path="url(#c3)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#7dd3fc">&#160;&#160;focus:&#160;</tspan><tspan fill="#86efac">"CRM&#160;&amp;&#160;APIs"</tspan><tspan fill="#94a3b8">,</tspan></text>
-<text x="20" y="140" clip-path="url(#c4)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#7dd3fc">&#160;&#160;coffee:&#160;</tspan><tspan fill="#fda4af">true</tspan><tspan fill="#94a3b8">,</tspan></text>
-<text x="20" y="164" clip-path="url(#c5)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#94a3b8">};</tspan></text>
+<text x="20" y="44" clip-path="url(#c0)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#fdba74">const&#160;</tspan><tspan fill="#e2e8f0">dev&#160;</tspan><tspan fill="#a8a29e">=&#160;{</tspan></text>
+<text x="20" y="68" clip-path="url(#c1)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#fda4af">&#160;&#160;name:&#160;</tspan><tspan fill="#fde68a">"Muralimjanov"</tspan><tspan fill="#a8a29e">,</tspan></text>
+<text x="20" y="92" clip-path="url(#c2)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#fda4af">&#160;&#160;stack:&#160;</tspan><tspan fill="#fde68a">["TS",&#160;"Nest",&#160;"React"]</tspan><tspan fill="#a8a29e">,</tspan></text>
+<text x="20" y="116" clip-path="url(#c3)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#fda4af">&#160;&#160;focus:&#160;</tspan><tspan fill="#fde68a">"CRM&#160;&amp;&#160;APIs"</tspan><tspan fill="#a8a29e">,</tspan></text>
+<text x="20" y="140" clip-path="url(#c4)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#fda4af">&#160;&#160;coffee:&#160;</tspan><tspan fill="#fb923c">true</tspan><tspan fill="#a8a29e">,</tspan></text>
+<text x="20" y="164" clip-path="url(#c5)" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12.5"><tspan fill="#a8a29e">};</tspan></text>
 
-<rect x="39" y="152" width="7" height="14" fill="#5eead4"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="39" y="152" width="7" height="14" fill="#fdba74"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
 </g>
 <rect x=".5" y=".5" width="999" height="319" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
